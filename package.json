@@ -1,0 +1,23 @@
+{
+  "name": "coderco-custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guledabdikadir/coderco-custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guledabdikadir/coderco-custom/issues"
+  },
+  "homepage": "https://github.com/guledabdikadir/coderco-custom#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^3.0.1"
+  }
+}
